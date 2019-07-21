@@ -1,0 +1,28 @@
+#categoriaycatalogo{
+    margin-left: 10px;
+    margin-right: 5px;
+    width: 100%;
+    padding-right: 0px;
+    height: 100%;
+   
+
+}
+#categoria{ align-content: left;
+    display: flex;
+
+}
+#listacatalogo {
+    flex-flow: row wrap;
+    display: flex;
+    grid-gap: 15px 10px;
+ 
+ }
+ .catalogo{
+    flex-flow: row wrap;
+    display: grid;
+    grid-gap: 15px 10px;
+ }
+ .Categoria:hover{
+    background-color: #7986cb;
+ }
+ 

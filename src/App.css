@@ -1,0 +1,24 @@
+.Search {
+  height: '100%';
+  position: 'absolute';
+   display: 'right';
+ 
+}
+.Footer{
+  background-color: #7986cb;
+  color: white;
+}
+.HeaderyNavbar {
+  background-color: #7986cb;
+  color: white;
+}
+#botoninisesion{
+ align-content: right;
+}
+.navbar-right{
+  align-content: right;
+ }
+ .logo{
+   height: 100px;
+   width: 100 px;
+ }
